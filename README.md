@@ -5,5 +5,5 @@ I'm Dima – a software engineer at [Klarna](https://klarna.com/) working on log
 - 🧾 You can check my certificates [here](https://www.youracclaim.com/users/dmitrijs-zubriks/badges).
 
 ### Get In Touch
-- LinkedIn: https://www.linkedin.com/in/dmitryzubrik/
+- LinkedIn: https://www.linkedin.com/in/dmitrijszubriks/
 - Telegram: https://t.me/dizlv
